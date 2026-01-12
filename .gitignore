@@ -1,0 +1,7 @@
+.env
+data
+__pycache__
+.agents
+explorating_data.ipynb
+venv
+logs
